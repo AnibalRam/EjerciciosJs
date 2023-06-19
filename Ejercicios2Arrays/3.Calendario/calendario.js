@@ -9,7 +9,7 @@ let calendario = [
   "agosto",
   "septiembre",
   "octubre",
-  "nobiembre",
+  "noviembre",
   "diciembre"
 ];
 
@@ -28,5 +28,4 @@ else if (pregunta>12) {
 
   console.log("No existe dicho mes, trata de que sea un mes con numero mayor que 0 y menor a 12")
 }
-
 
